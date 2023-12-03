@@ -1,7 +1,7 @@
 {
   "name": "imgur-local-scrape",
   "description": "Scrape local imgur links, and save them locally",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "main.js",
   "author": "Ben Winding",
   "license": "MIT",
