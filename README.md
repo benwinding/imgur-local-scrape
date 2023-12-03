@@ -6,7 +6,13 @@ This package allows you to search for all "i.imgur.com/...." links and download 
 
 ## Installation
 
-```
+<!-- [START badges] -->
+[![NPM Version](https://img.shields.io/npm/v/imgur-local-scrape.svg)](https://www.npmjs.com/package/imgur-local-scrape) 
+[![License](https://img.shields.io/npm/l/imgur-local-scrape.svg)](https://github.com/benwinding/imgur-local-scrape/blob/master/LICENSE) 
+[![Downloads/week](https://img.shields.io/npm/dm/imgur-local-scrape.svg)](https://www.npmjs.com/package/imgur-local-scrape) 
+<!-- [END badges] -->
+
+``` sh
 yarn add -g imgur-local-scrape
 # or
 npm i -g imgur-local-scrape
