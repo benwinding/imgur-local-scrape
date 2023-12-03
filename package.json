@@ -1,0 +1,17 @@
+{
+  "name": "imgur-local-scrape",
+  "version": "0.0.1",
+  "main": "main.js",
+  "license": "MIT",
+  "bin": {
+    "imgur-local-scrape": "./main.js"
+  },
+  "dependencies": {
+    "commander": "^11.1.0",
+    "glob": "^10.3.10",
+    "node-fetch": "2.x"
+  },
+  "devDependencies": {
+    "jest": "20.x"
+  }
+}
