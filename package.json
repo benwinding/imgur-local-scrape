@@ -1,8 +1,18 @@
 {
   "name": "imgur-local-scrape",
+  "description": "Scrape local imgur links, and save them locally",
   "version": "0.0.1",
   "main": "main.js",
+  "author": "Ben Winding",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benwinding/imgur-local-scrape.git"
+  },
+  "keywords": [
+    "imgur",
+    "scraping"
+  ],
   "bin": {
     "imgur-local-scrape": "./main.js"
   },
